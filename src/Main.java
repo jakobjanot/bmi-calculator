@@ -5,6 +5,4 @@ public class Main {
         double bmi = Bmi.calculateBmi(weight, height);
         System.out.println("Mit bmi er: " + bmi);
     }
-
-
 }
